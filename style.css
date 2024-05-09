@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    }
+    /* body {
+        margin-right: auto;
+        margin-left: auto;
+    } */
+    .logo{
+        height: 30px;
+        width: 80px;
+    }
+    .nav{
+        display: flex;
+        justify-content: space-around;
+    }
+    button{
+        background-color:#563D7C ;
+        color: white;
+    }
+    
